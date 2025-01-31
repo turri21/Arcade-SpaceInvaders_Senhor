@@ -1,6 +1,9 @@
 -=(SpaceInvaders_Senhor notes)=-
 
 Tested: Working Video 720p, 1080p & Sound.
+
+Dev notes: Clocks swapped in sys.tcl
+
 ___
 # Space Invaders Board
 

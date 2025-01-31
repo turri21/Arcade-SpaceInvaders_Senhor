@@ -1,3 +1,7 @@
+-=(SpaceInvaders_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound.
+___
 # Space Invaders Board
 
 Space Invaders is a classic arcade game. However, the same hardware with different sound boards, and slight modifications was used on many many games. 

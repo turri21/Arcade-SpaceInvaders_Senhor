@@ -2,6 +2,7 @@
 
 Tested: Working Video 720p, 1080p & Sound.
 
+Dev notes: Background menu entry is set off by default
 ___
 # Space Invaders Board
 
